@@ -1,4 +1,4 @@
-# Project Name
+# Programming for Data Analysis
 
 This project aims to understand Project Outline: Data Acquisition, Pre-processing, and Data Analysis Pipeline.
 
